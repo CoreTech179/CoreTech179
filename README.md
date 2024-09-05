@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coretech179" alt="coretech179" /></a> </p>
 
-- 🌱 I’m currently learning **Java Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoreTech179](https://github.com/CoreTech179)
 
